@@ -6,7 +6,7 @@ terraform {
     }
   }
   backend "s3" {
-    key    = "development/terraform.tfstate"
+    key    = "terraform-eks-course/terraform.tfstate"
     region = "us-east-1"
   }
 }

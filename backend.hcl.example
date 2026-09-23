@@ -1,1 +1,1 @@
-bucket = "eks-<AWS_ACCOUNT_ID>-us-east-1-an"
+bucket = "tfstate-<AWS_ACCOUNT_ID>-us-east-1-an"
